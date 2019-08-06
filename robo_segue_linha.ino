@@ -17,8 +17,6 @@
 * 5- 1x arduino
 */
 
-#include <SoftwareSerial.h>   //Inlcui a biblioteca SoftwareSerial.h
-
 #define motor11 3   //Roda esquerda
 #define motor12 5   //Roda esquerda
 #define motor21 6   //Roda direita
